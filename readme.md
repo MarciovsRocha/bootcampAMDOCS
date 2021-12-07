@@ -3,6 +3,7 @@
 ## About me
 
 Marcio Rocha, Jr. Developer @ MPS Informática
+
 Computer Science student @ PUC-PR
 
 ## Current Specs:
