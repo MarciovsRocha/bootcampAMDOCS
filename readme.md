@@ -6,6 +6,8 @@ Marcio Rocha, Jr. Developer @ MPS Informática
 
 Computer Science student @ PUC-PR
 
+what i'm reading: `Programação Shell Linux 12º Edição - Julio Cezar Neves`
+
 ## Current Specs:
 
 ```
